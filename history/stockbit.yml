@@ -1,7 +1,7 @@
 url: https://stockbit.com
-status: down
-code: 504
-responseTime: 10724
-lastUpdated: 2023-09-12T21:42:59.468Z
+status: up
+code: 200
+responseTime: 1297
+lastUpdated: 2023-09-12T21:51:37.168Z
 startTime: 2022-08-23T14:27:15.000Z
 generator: Upptime <https://github.com/upptime/upptime>
