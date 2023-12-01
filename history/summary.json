@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 387,
-    "timeDay": 274,
-    "timeWeek": 331,
-    "timeMonth": 339,
+    "timeDay": 287,
+    "timeWeek": 332,
+    "timeMonth": 332,
     "timeYear": 434,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
     "status": "down",
-    "uptime": "64.18%",
+    "uptime": "64.05%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
-    "uptimeMonth": "0.00%",
-    "uptimeYear": "55.05%",
+    "uptimeMonth": "1.38%",
+    "uptimeYear": "55.02%",
     "time": 637,
-    "timeDay": 119,
-    "timeWeek": 102,
-    "timeMonth": 106,
-    "timeYear": 491,
+    "timeDay": 68,
+    "timeWeek": 98,
+    "timeMonth": 105,
+    "timeYear": 467,
     "dailyMinutesDown": {
-      "2023-11-30": 19,
+      "2023-12-01": 21,
+      "2023-11-30": 1440,
       "2023-11-29": 1440,
       "2023-11-28": 1440,
       "2023-11-27": 1440,
@@ -199,8 +200,7 @@
       "2022-12-05": 1284,
       "2022-12-04": 1283,
       "2022-12-03": 1220,
-      "2022-12-02": 1259,
-      "2022-12-01": 1361
+      "2022-12-02": 1259
     }
   },
   {
@@ -215,10 +215,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
     "time": 1215,
-    "timeDay": 1407,
-    "timeWeek": 1262,
-    "timeMonth": 1257,
-    "timeYear": 1282,
+    "timeDay": 1418,
+    "timeWeek": 1278,
+    "timeMonth": 1258,
+    "timeYear": 1281,
     "dailyMinutesDown": {
       "2023-07-27": 18,
       "2022-12-16": 16,
@@ -228,8 +228,7 @@
       "2022-12-10": 25,
       "2022-12-09": 19,
       "2022-12-06": 24,
-      "2022-12-04": 22,
-      "2022-12-01": 24
+      "2022-12-04": 22
     }
   },
   {
@@ -244,10 +243,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 970,
-    "timeDay": 1321,
-    "timeWeek": 923,
-    "timeMonth": 968,
-    "timeYear": 959,
+    "timeDay": 1329,
+    "timeWeek": 985,
+    "timeMonth": 978,
+    "timeYear": 960,
     "dailyMinutesDown": {
       "2023-09-29": 128,
       "2023-04-30": 206,
