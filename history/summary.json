@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 177,
-    "timeWeek": 276,
-    "timeMonth": 314,
+    "timeDay": 355,
+    "timeWeek": 275,
+    "timeMonth": 309,
     "timeYear": 434,
     "dailyMinutesDown": {}
   },
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
     "status": "down",
-    "uptime": "63.50%",
+    "uptime": "63.36%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.90%",
-    "time": 546,
-    "timeDay": 133,
-    "timeWeek": 101,
-    "timeMonth": 106,
-    "timeYear": 369,
+    "uptimeYear": "54.87%",
+    "time": 543,
+    "timeDay": 102,
+    "timeWeek": 96,
+    "timeMonth": 103,
+    "timeYear": 333,
     "dailyMinutesDown": {
-      "2023-12-05": 19,
+      "2023-12-06": 19,
+      "2023-12-05": 1440,
       "2023-12-04": 1440,
       "2023-12-03": 1440,
       "2023-12-02": 1440,
@@ -199,8 +200,7 @@
       "2022-12-10": 1316,
       "2022-12-09": 1299,
       "2022-12-08": 1415,
-      "2022-12-07": 1087,
-      "2022-12-06": 1176
+      "2022-12-07": 1087
     }
   },
   {
@@ -215,10 +215,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1215,
-    "timeDay": 1453,
-    "timeWeek": 1261,
-    "timeMonth": 1280,
-    "timeYear": 1288,
+    "timeDay": 1272,
+    "timeWeek": 1405,
+    "timeMonth": 1279,
+    "timeYear": 1290,
     "dailyMinutesDown": {
       "2023-07-27": 18,
       "2022-12-16": 16,
@@ -226,8 +226,7 @@
       "2022-12-13": 26,
       "2022-12-12": 24,
       "2022-12-10": 25,
-      "2022-12-09": 19,
-      "2022-12-06": 24
+      "2022-12-09": 19
     }
   },
   {
@@ -242,10 +241,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
     "time": 970,
-    "timeDay": 1404,
-    "timeWeek": 1033,
-    "timeMonth": 976,
-    "timeYear": 960,
+    "timeDay": 786,
+    "timeWeek": 1034,
+    "timeMonth": 964,
+    "timeYear": 959,
     "dailyMinutesDown": {
       "2023-09-29": 128,
       "2023-04-30": 206,
