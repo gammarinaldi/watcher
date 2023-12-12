@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 386,
-    "timeDay": 500,
-    "timeWeek": 348,
-    "timeMonth": 315,
-    "timeYear": 436,
+    "timeDay": 282,
+    "timeWeek": 363,
+    "timeMonth": 310,
+    "timeYear": 437,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
     "status": "down",
-    "uptime": "62.70%",
+    "uptime": "62.56%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "54.70%",
     "time": 419,
-    "timeDay": 77,
-    "timeWeek": 96,
+    "timeDay": 76,
+    "timeWeek": 88,
     "timeMonth": 102,
-    "timeYear": 171,
+    "timeYear": 167,
     "dailyMinutesDown": {
-      "2023-12-11": 20,
+      "2023-12-12": 19,
+      "2023-12-11": 1440,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -199,8 +200,7 @@
       "2022-12-16": 1412,
       "2022-12-15": 1440,
       "2022-12-14": 1411,
-      "2022-12-13": 1401,
-      "2022-12-12": 1394
+      "2022-12-13": 1401
     }
   },
   {
@@ -215,16 +215,15 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 1220,
-    "timeDay": 1325,
-    "timeWeek": 1335,
-    "timeMonth": 1318,
+    "timeDay": 1282,
+    "timeWeek": 1311,
+    "timeMonth": 1316,
     "timeYear": 1312,
     "dailyMinutesDown": {
       "2023-07-27": 18,
       "2022-12-16": 16,
       "2022-12-14": 17,
-      "2022-12-13": 26,
-      "2022-12-12": 24
+      "2022-12-13": 26
     }
   },
   {
@@ -238,10 +237,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 970,
-    "timeDay": 875,
-    "timeWeek": 989,
-    "timeMonth": 968,
+    "time": 969,
+    "timeDay": 785,
+    "timeWeek": 901,
+    "timeMonth": 960,
     "timeYear": 957,
     "dailyMinutesDown": {
       "2023-09-29": 128,
