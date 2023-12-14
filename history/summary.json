@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 386,
-    "timeDay": 265,
-    "timeWeek": 350,
-    "timeMonth": 312,
-    "timeYear": 435,
+    "time": 385,
+    "timeDay": 271,
+    "timeWeek": 327,
+    "timeMonth": 310,
+    "timeYear": 436,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
     "status": "down",
-    "uptime": "62.43%",
+    "uptime": "62.30%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.69%",
+    "uptimeYear": "54.68%",
     "time": 414,
-    "timeDay": 87,
-    "timeWeek": 86,
+    "timeDay": 90,
+    "timeWeek": 78,
     "timeMonth": 103,
-    "timeYear": 154,
+    "timeYear": 140,
     "dailyMinutesDown": {
-      "2023-12-13": 19,
+      "2023-12-14": 19,
+      "2023-12-13": 1440,
       "2023-12-12": 1440,
       "2023-12-11": 1440,
       "2023-12-10": 1440,
@@ -199,8 +200,7 @@
       "2022-12-18": 1440,
       "2022-12-17": 1440,
       "2022-12-16": 1412,
-      "2022-12-15": 1440,
-      "2022-12-14": 1411
+      "2022-12-15": 1440
     }
   },
   {
@@ -215,14 +215,13 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 1222,
-    "timeDay": 1178,
-    "timeWeek": 1298,
-    "timeMonth": 1313,
-    "timeYear": 1315,
+    "timeDay": 1177,
+    "timeWeek": 1281,
+    "timeMonth": 1310,
+    "timeYear": 1318,
     "dailyMinutesDown": {
       "2023-07-27": 18,
-      "2022-12-16": 16,
-      "2022-12-14": 17
+      "2022-12-16": 16
     }
   },
   {
@@ -236,11 +235,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.93%",
-    "time": 969,
-    "timeDay": 750,
-    "timeWeek": 896,
-    "timeMonth": 955,
-    "timeYear": 956,
+    "time": 968,
+    "timeDay": 776,
+    "timeWeek": 868,
+    "timeMonth": 952,
+    "timeYear": 955,
     "dailyMinutesDown": {
       "2023-09-29": 128,
       "2023-04-30": 206,
