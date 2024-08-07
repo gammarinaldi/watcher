@@ -4,19 +4,19 @@
     "url": "https://pintu.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/pintu.co.id.ico",
     "slug": "pintu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.39%",
-    "uptimeWeek": "99.91%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 443,
-    "timeDay": 423,
-    "timeWeek": 371,
-    "timeMonth": 313,
+    "timeDay": 383,
+    "timeWeek": 360,
+    "timeMonth": 311,
     "timeYear": 428,
     "dailyMinutesDown": {
-      "2024-08-07": 9
+      "2024-08-07": 0
     }
   },
   {
@@ -36,7 +36,7 @@
     "timeMonth": 110,
     "timeYear": 111,
     "dailyMinutesDown": {
-      "2024-08-07": 1165,
+      "2024-08-07": 1174,
       "2024-08-06": 1440,
       "2024-08-05": 1440,
       "2024-08-04": 1440,
