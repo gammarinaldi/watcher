@@ -4,7 +4,7 @@
     "url": "https://pintu.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/pintu.co.id.ico",
     "slug": "pintu",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 330,
     "timeMonth": 318,
     "timeYear": 425,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-08-14": 0
+    }
   },
   {
     "name": "Tokocrypto",
@@ -27,14 +29,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "10.66%",
+    "uptimeYear": "10.62%",
     "time": 111,
     "timeDay": 58,
     "timeWeek": 129,
     "timeMonth": 114,
     "timeYear": 112,
     "dailyMinutesDown": {
-      "2024-08-14": 21,
+      "2024-08-14": 245,
       "2024-08-13": 1440,
       "2024-08-12": 1440,
       "2024-08-11": 1440,
