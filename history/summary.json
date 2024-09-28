@@ -6,17 +6,16 @@
     "slug": "pintu",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.48%",
-    "uptimeWeek": "99.75%",
-    "uptimeMonth": "99.89%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "99.83%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 432,
-    "timeDay": 443,
+    "timeDay": 344,
     "timeWeek": 349,
-    "timeMonth": 323,
-    "timeYear": 412,
+    "timeMonth": 316,
+    "timeYear": 411,
     "dailyMinutesDown": {
-      "2024-09-27": 7,
       "2024-09-26": 17,
       "2024-09-08": 23
     }
@@ -27,18 +26,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
     "status": "down",
-    "uptime": "38.89%",
+    "uptime": "38.85%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 109,
-    "timeDay": 163,
-    "timeWeek": 122,
-    "timeMonth": 124,
-    "timeYear": 111,
+    "timeDay": 102,
+    "timeWeek": 123,
+    "timeMonth": 123,
+    "timeYear": 110,
     "dailyMinutesDown": {
-      "2024-09-27": 420,
+      "2024-09-28": 23,
+      "2024-09-27": 1440,
       "2024-09-26": 1440,
       "2024-09-25": 1440,
       "2024-09-24": 1440,
@@ -401,8 +401,7 @@
       "2023-10-03": 1440,
       "2023-10-02": 1440,
       "2023-10-01": 1440,
-      "2023-09-30": 1440,
-      "2023-09-29": 1440
+      "2023-09-30": 1440
     }
   },
   {
@@ -417,8 +416,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1320,
-    "timeDay": 1537,
-    "timeWeek": 1396,
+    "timeDay": 1244,
+    "timeWeek": 1393,
     "timeMonth": 1270,
     "timeYear": 1317,
     "dailyMinutesDown": {}
@@ -434,13 +433,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 647,
-    "timeDay": 128,
-    "timeWeek": 152,
-    "timeMonth": 129,
-    "timeYear": 524,
-    "dailyMinutesDown": {
-      "2023-09-29": 128
-    }
+    "time": 645,
+    "timeDay": 115,
+    "timeWeek": 142,
+    "timeMonth": 128,
+    "timeYear": 522,
+    "dailyMinutesDown": {}
   }
 ]
