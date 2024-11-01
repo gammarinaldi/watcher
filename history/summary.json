@@ -6,17 +6,16 @@
     "slug": "pintu",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.45%",
-    "uptimeWeek": "99.92%",
-    "uptimeMonth": "99.94%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "99.99%",
     "time": 420,
-    "timeDay": 249,
-    "timeWeek": 236,
-    "timeMonth": 301,
+    "timeDay": 163,
+    "timeWeek": 240,
+    "timeMonth": 300,
     "timeYear": 378,
     "dailyMinutesDown": {
-      "2024-10-31": 8,
       "2024-10-03": 18,
       "2024-09-26": 17,
       "2024-09-08": 23
@@ -28,18 +27,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
     "status": "down",
-    "uptime": "37.24%",
+    "uptime": "37.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 111,
-    "timeDay": 144,
-    "timeWeek": 131,
+    "timeDay": 99,
+    "timeWeek": 124,
     "timeMonth": 122,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-10-31": 231,
+      "2024-11-01": 27,
+      "2024-10-31": 1440,
       "2024-10-30": 1440,
       "2024-10-29": 1440,
       "2024-10-28": 1440,
@@ -402,8 +402,7 @@
       "2023-11-06": 1440,
       "2023-11-05": 1440,
       "2023-11-04": 1440,
-      "2023-11-03": 1440,
-      "2023-11-02": 1440
+      "2023-11-03": 1440
     }
   },
   {
@@ -418,9 +417,9 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 1316,
-    "timeDay": 1277,
-    "timeWeek": 1204,
-    "timeMonth": 1307,
+    "timeDay": 1292,
+    "timeWeek": 1181,
+    "timeMonth": 1305,
     "timeYear": 1317,
     "dailyMinutesDown": {
       "2024-10-28": 40
@@ -437,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 594,
-    "timeDay": 107,
-    "timeWeek": 127,
-    "timeMonth": 133,
-    "timeYear": 445,
+    "time": 593,
+    "timeDay": 230,
+    "timeWeek": 135,
+    "timeMonth": 136,
+    "timeYear": 443,
     "dailyMinutesDown": {}
   }
 ]
