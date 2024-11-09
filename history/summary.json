@@ -4,7 +4,7 @@
     "url": "https://pintu.co.id",
     "icon": "https://icons.duckduckgo.com/ip3/pintu.co.id.ico",
     "slug": "pintu",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 259,
     "timeYear": 374,
     "dailyMinutesDown": {
+      "2024-11-09": 0,
       "2024-10-03": 18,
       "2024-09-26": 17,
       "2024-09-08": 23
@@ -27,7 +28,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
     "status": "down",
-    "uptime": "36.83%",
+    "uptime": "36.79%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -38,7 +39,7 @@
     "timeMonth": 117,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-11-09": 23,
+      "2024-11-09": 1308,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
