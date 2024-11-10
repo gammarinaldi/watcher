@@ -6,17 +6,16 @@
     "slug": "pintu",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 418,
-    "timeDay": 323,
-    "timeWeek": 231,
-    "timeMonth": 263,
+    "time": 417,
+    "timeDay": 262,
+    "timeWeek": 225,
+    "timeMonth": 261,
     "timeYear": 374,
     "dailyMinutesDown": {
-      "2024-11-09": 7,
       "2024-10-03": 18,
       "2024-09-26": 17,
       "2024-09-08": 23
@@ -34,12 +33,13 @@
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 112,
-    "timeDay": 138,
-    "timeWeek": 98,
+    "timeDay": 121,
+    "timeWeek": 100,
     "timeMonth": 117,
     "timeYear": 114,
     "dailyMinutesDown": {
-      "2024-11-09": 1316,
+      "2024-11-10": 26,
+      "2024-11-09": 1440,
       "2024-11-08": 1440,
       "2024-11-07": 1440,
       "2024-11-06": 1440,
@@ -402,8 +402,7 @@
       "2023-11-15": 1440,
       "2023-11-14": 1440,
       "2023-11-13": 1440,
-      "2023-11-12": 1440,
-      "2023-11-11": 1440
+      "2023-11-12": 1440
     }
   },
   {
@@ -417,11 +416,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
-    "time": 1317,
-    "timeDay": 1389,
-    "timeWeek": 1368,
-    "timeMonth": 1305,
-    "timeYear": 1321,
+    "time": 1318,
+    "timeDay": 1444,
+    "timeWeek": 1374,
+    "timeMonth": 1306,
+    "timeYear": 1322,
     "dailyMinutesDown": {
       "2024-10-28": 40
     }
@@ -437,11 +436,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 581,
-    "timeDay": 176,
-    "timeWeek": 146,
+    "time": 579,
+    "timeDay": 106,
+    "timeWeek": 144,
     "timeMonth": 138,
-    "timeYear": 426,
+    "timeYear": 422,
     "dailyMinutesDown": {}
   }
 ]
