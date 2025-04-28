@@ -31,7 +31,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
     "status": "down",
-    "uptime": "30.43%",
+    "uptime": "30.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -42,7 +42,7 @@
     "timeMonth": 119,
     "timeYear": 121,
     "dailyMinutesDown": {
-      "2025-04-28": 29,
+      "2025-04-28": 752,
       "2025-04-27": 1440,
       "2025-04-26": 1440,
       "2025-04-25": 1440,
@@ -437,17 +437,19 @@
     "url": "https://stockbit.com",
     "icon": "https://icons.duckduckgo.com/ip3/stockbit.com.ico",
     "slug": "stockbit",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 281,
-    "timeDay": 123,
-    "timeWeek": 125,
-    "timeMonth": 129,
-    "timeYear": 124,
-    "dailyMinutesDown": {}
+    "time": 282,
+    "timeDay": 750,
+    "timeWeek": 281,
+    "timeMonth": 168,
+    "timeYear": 128,
+    "dailyMinutesDown": {
+      "2025-04-28": 0
+    }
   }
 ]
