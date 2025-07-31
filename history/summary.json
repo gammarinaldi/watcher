@@ -13,7 +13,7 @@
     "time": 385,
     "timeDay": 425,
     "timeWeek": 270,
-    "timeMonth": 293,
+    "timeMonth": 295,
     "timeYear": 360,
     "dailyMinutesDown": {
       "2025-06-04": 20,
@@ -33,17 +33,18 @@
     "slug": "tokocrypto",
     "status": "down",
     "uptime": "28.39%",
-    "uptimeDay": "3.80%",
+    "uptimeDay": "2.96%",
     "uptimeWeek": "2.27%",
-    "uptimeMonth": "2.91%",
+    "uptimeMonth": "0.00%",
     "uptimeYear": "0.13%",
     "time": 382,
-    "timeDay": 1698,
+    "timeDay": 1654,
     "timeWeek": 1516,
-    "timeMonth": 1284,
+    "timeMonth": 1275,
     "timeYear": 454,
     "dailyMinutesDown": {
-      "2025-07-30": 1338,
+      "2025-07-31": 31,
+      "2025-07-30": 1397,
       "2025-07-29": 1428,
       "2025-07-28": 1408,
       "2025-07-27": 1392,
@@ -406,8 +407,7 @@
       "2024-08-04": 1440,
       "2024-08-03": 1440,
       "2024-08-02": 1440,
-      "2024-08-01": 1440,
-      "2024-07-31": 1440
+      "2024-08-01": 1440
     }
   },
   {
@@ -424,7 +424,7 @@
     "time": 1355,
     "timeDay": 1710,
     "timeWeek": 1679,
-    "timeMonth": 1687,
+    "timeMonth": 1684,
     "timeYear": 1363,
     "dailyMinutesDown": {
       "2025-01-23": 423,
@@ -447,7 +447,7 @@
     "time": 139,
     "timeDay": 278,
     "timeWeek": 348,
-    "timeMonth": 263,
+    "timeMonth": 258,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2025-04-28": 51
