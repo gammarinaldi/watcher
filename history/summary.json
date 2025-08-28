@@ -32,17 +32,17 @@
     "url": "https://tokocrypto.com",
     "icon": "https://icons.duckduckgo.com/ip3/tokocrypto.com.ico",
     "slug": "tokocrypto",
-    "status": "up",
-    "uptime": "95.92%",
-    "uptimeDay": "1.51%",
-    "uptimeWeek": "1.86%",
-    "uptimeMonth": "0.61%",
-    "uptimeYear": "87.70%",
+    "status": "down",
+    "uptime": "96.05%",
+    "uptimeDay": "2.11%",
+    "uptimeWeek": "1.94%",
+    "uptimeMonth": "0.62%",
+    "uptimeYear": "88.07%",
     "time": 604,
-    "timeDay": 1700,
-    "timeWeek": 1477,
-    "timeMonth": 1456,
-    "timeYear": 753,
+    "timeDay": 1504,
+    "timeWeek": 1447,
+    "timeMonth": 1457,
+    "timeYear": 752,
     "dailyMinutesDown": {
       "2025-08-28": 1225,
       "2025-08-27": 1431,
@@ -88,9 +88,7 @@
       "2025-07-18": 1440,
       "2025-07-17": 1426,
       "2025-07-16": 1428,
-      "2025-07-15": 1420,
-      "2025-07-14": 1440,
-      "2025-07-13": 60
+      "2025-07-15": 950
     }
   },
   {
